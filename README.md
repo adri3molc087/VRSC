@@ -1,1 +1,1 @@
-# kali
+# earnLTC-b --> Host
