@@ -1,0 +1,9 @@
+VerusWallet	: RMqqyMywRRd87dv6DidsHgeqh5coF7k1Rw
+nicehash	: 3G8JVrAWvGXZXya1AMYxEDLcLVD7SC7k47
+
+// ccminer //
+luckpool (f:1%)		:
+
+clear
+./ccminer/ccminer -a verus -o stratum+tcp://ap.luckpool.net:3956 -u RMqqyMywRRd87dv6DidsHgeqh5coF7k1Rw.H1S4 -p x -t 6
+================================================================================
